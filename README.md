@@ -1,2 +1,3 @@
-# iot-esp32
-Projeto - IoT Esp32
+# Estudos IoT
+
+Temperatura e Humidade do solo
